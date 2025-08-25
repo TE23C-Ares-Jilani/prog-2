@@ -1,0 +1,15 @@
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.AssemblyInfoInputs.cache
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.AssemblyInfo.cs
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.csproj.CoreCompileInputs.cache
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.sourcelink.json
+C:\Users\ares.jilani\Documents\prog-2\Repition\bin\Debug\net8.0\Repition.exe
+C:\Users\ares.jilani\Documents\prog-2\Repition\bin\Debug\net8.0\Repition.deps.json
+C:\Users\ares.jilani\Documents\prog-2\Repition\bin\Debug\net8.0\Repition.runtimeconfig.json
+C:\Users\ares.jilani\Documents\prog-2\Repition\bin\Debug\net8.0\Repition.dll
+C:\Users\ares.jilani\Documents\prog-2\Repition\bin\Debug\net8.0\Repition.pdb
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.dll
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\refint\Repition.dll
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.pdb
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\Repition.genruntimeconfig.cache
+C:\Users\ares.jilani\Documents\prog-2\Repition\obj\Debug\net8.0\ref\Repition.dll
