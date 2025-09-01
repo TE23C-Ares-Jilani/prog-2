@@ -8,15 +8,42 @@ static void FightSim()
     int p2Hp = 75;
 
     string p1Name = "";
-    string p2Name = "Martin";
+    string p2Name = "";
 
-    Console.WriteLine("Write yo name fool");
-    
-    p1Name = Console.ReadLine();
+    int realname = 0;
 
-    
+    while (realname == 0)
+    {
+        Console.WriteLine("Write yo name fool");
+        p1Name = Console.ReadLine();
 
-    Console.WriteLine($"{p1Name} vs {p2Name} - FIGHT!");
+        Console.WriteLine("Write yo opponents name fool");
+        p2Name = Console.ReadLine();
+
+        p1Name = p1Name.Trim();
+        p2Name = p2Name.Trim();
+
+        if (p2Name == p1Name)
+        {
+            Console.Clear();
+            Console.WriteLine("write different names fool");
+            Console.ReadKey();
+        }
+        else if (p1Name.Length > 0 && p2Name.Length > 0)
+        {
+            realname = 1;
+        }
+        else
+        {
+            Console.Clear();
+            Console.WriteLine("Write names fool");
+            Console.ReadKey();
+        }
+    }
+        Console.Clear();
+        Console.WriteLine($"{p1Name} vs {p2Name} - FIGHT!");
+        Console.ReadKey();
+
 
     while (p1Hp > 0 && p2Hp > 0)
     {
