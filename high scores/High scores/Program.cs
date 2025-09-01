@@ -1,8 +1,13 @@
-﻿List<string> highScores = [];
+﻿List<string> players = [];
+List<string> highScores = [];
 
-highScores.Add("20000 Martin");
-highScores.Add("15000 Christian Latino");
-highScores.Add("10000 Micke");
+players.Add("Martin");
+players.Add("Christian Latino");
+players.Add("Micke");
+
+highScores.Add("20000");
+highScores.Add("15000");
+highScores.Add("10000");
 
 for (int i = 0; i < highScores.Count; i++)
 {
